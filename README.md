@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hello, I'm Shahriar Hussain Shovon!
+Welcome to my GitHub profile! I'm a passionate developer learning and building awesome projects.
 
-<!--
-**MernDevShovon/MernDevShovon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 About Me
+- 🚀 I love coding and technology.
+- 🔭 I'm currently learning **Web Development & Blockchain**.
+- 🎯 My goal is to become a **successful developer / freelancer**.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Technologies & Tools
+- 🔹 **Languages:** Python, JavaScript
+- 🌐 **Web Development:** HTML, CSS, React
+- ⚙️ **Backend:** Node.js, Express.js
+- 🛢 **Databases:** MySQL, Firebase, MongoDB
+- 🔧 **Other:** Git, Docker, Linux, AWS
