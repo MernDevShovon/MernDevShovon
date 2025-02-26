@@ -1,5 +1,5 @@
-# 🚀 Welcome to My Profile!
-![Banner](https://github.com/MernDevShovon/MernDevShovon/raw/main/banner.png)
+# 👋 Hello, I'm Shahriar Hussain Shovon
+Welcome to my GitHub profile! I'm a passionate developer learning and building awesome projects.
 
 ## 👋 About Me
 - 🔭 I’m currently working on **web development projects**  
@@ -19,9 +19,6 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-
-## 🐍 Contribution Snake
-![Snake animation](https://github.com/MernDevShovon/MernDevShovon/blob/output/github-contribution-grid-snake.svg)
 
 ## 🔗 Connect with Me
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/MernDevShovon)  
