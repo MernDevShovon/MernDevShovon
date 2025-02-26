@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on **web development projects**  
 - 🌱 I’m learning **React & Node.js**  
 - 💬 Ask me about **JavaScript, GitHub, and APIs**  
-- 📫 Reach me at: **your@email.com**  
+- 📫 Reach me at: **contact.shovon2001@gmail.com**  
 
 ## 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MernDevShovon&show_icons=true&theme=radical)  
@@ -21,6 +21,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  
 
 ## 🐍 Contribution Snake  
-![Snake animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)  
+![Snake animation](https://github.com/MernDevShovon/MernDevShovon/blob/output/github-contribution-grid-snake.svg)  
 
 
