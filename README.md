@@ -1,14 +1,26 @@
-# 👋 Hello, I'm Shahriar Hussain Shovon!
-Welcome to my GitHub profile! I'm a passionate developer learning and building awesome projects.
+# 🚀 Welcome to My Profile!  
+![Banner](https://github.com/MernDevShovon/MernDevShovon/raw/main/banner.png)  
 
-## 🌱 About Me
-- 🚀 I love coding and technology.
-- 🔭 I'm currently learning **Web Development & Blockchain**.
-- 🎯 My goal is to become a **successful developer / freelancer**.
+## 👋 About Me  
+- 🔭 I’m currently working on **web development projects**  
+- 🌱 I’m learning **React & Node.js**  
+- 💬 Ask me about **JavaScript, GitHub, and APIs**  
+- 📫 Reach me at: **your@email.com**  
 
-## 💻 Technologies & Tools
-- 🔹 **Languages:** Python, JavaScript
-- 🌐 **Web Development:** HTML, CSS, React
-- ⚙️ **Backend:** Node.js, Express.js
-- 🛢 **Databases:** MySQL, Firebase, MongoDB
-- 🔧 **Other:** Git, Docker, Linux, AWS
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MernDevShovon&show_icons=true&theme=radical)  
+
+## 🔥 Contribution Graph  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MernDevShovon&theme=react-dark)  
+
+## 💻 Tech Stack  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  
+
+## 🐍 Contribution Snake  
+![Snake animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)  
+
+
