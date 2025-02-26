@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate developer learning and building a
 - 🔭 I’m currently working on **web development projects**  
 - 🌱 I’m learning **React & Node.js**  
 - 💬 Ask me about **JavaScript, GitHub, and APIs**  
-- 📫 Reach me at: **your@email.com**  
+- 📫 Reach me at: **contact.shovon2001@gmail.com**  
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MernDevShovon&show_icons=true&theme=radical)
